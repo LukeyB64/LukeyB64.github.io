@@ -1,0 +1,73 @@
+.header {
+    border: #888 10px solid;
+}
+
+.main h1 {
+    padding-left: 200px;
+    padding-top: 25px;
+    font-size: 72px;
+}
+
+table {
+    padding-left: 50px;
+}
+
+thead {
+    background-color: #000;
+    color: #fff;
+}
+
+td {
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#re {
+    background-color: #c0a;
+}
+
+#lat {
+    background-color: #f00;
+}
+
+#ite {
+    background-color: #f70;
+}
+
+#eng {
+    background-color: #ffd700;
+}
+
+#scc {
+    background-color: #0f0;
+}
+
+#pe {
+    background-color: #08f;
+}
+
+#hst {
+    background-color: #00f;
+    color: #fff;
+}
+
+#mme {
+    background-color: #ccc;
+}
+
+#dra {
+    background-color: #444;
+    color: #fff;
+}
+
+#mus {
+    background-color: #888;
+}
+
+#blank {
+    background-color: #eee;
+    text-align: center;
+}
